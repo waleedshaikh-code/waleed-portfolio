@@ -26,7 +26,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Xerofinity Website"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="Welcome to our dynamic web services company, where innovation meets expertise. We specialize in crafting immersive online experiences that empower businesses to thrive in the digital realm. From sleek website design and seamless e-commerce integration to robust web development and strategic SEO optimization, we are your partner in turning visions into virtual realities"
               ghLink="https://github.com/waleedshaikh-code/xerofinity"
               demoLink="www.xerofinity.com"
             />
@@ -37,7 +37,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Noone-Website"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="Introducing Noone Website Clone – Your gateway to creating a personalized and unique online identity. Embrace the power of customization as we offer you a platform to replicate the minimalist elegance of Noone's design."
               ghLink="https://github.com/waleedshaikh-code/noone-web"
               demoLink="https://noone-techfinitysolutions.netlify.app/"
             />
@@ -48,7 +48,7 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Hulu Website"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              description="Step into the world of limitless entertainment with our Hulu Website Clone. Immerse yourself in the ultimate streaming experience, where you can replicate the user-friendly interface and extensive content library of Hulu. From trending shows and blockbuster movies to exclusive originals."
               ghLink="https://github.com/waleedshaikh-code/hulu-landing"
               demoLink="https://techfinitysolutions-hulu.netlify.app/"              
             />
@@ -59,7 +59,7 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Company Website"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              description="Welcome to our dynamic web services company, where innovation meets expertise. We specialize in crafting immersive online experiences that empower businesses to thrive in the digital realm. From sleek website design and seamless e-commerce integration to robust web development and strategic SEO optimization, we are your partner in turning visions into virtual realities"
               ghLink="https://github.com/waleedshaikh-code/portfolio"
               demoLink="https://techfinitysolutions.netlify.app/"
             />
@@ -70,7 +70,7 @@ function Projects() {
               imgPath={suicide}
               isBlog={false}
               title="Online Quiz App"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+              description="Unleash the power of knowledge and engagement with our Online Quiz Application. Transform learning and fun into an interactive experience by creating your own customized quizzes, tests, and assessments. Whether for education, training, or entertainment, our user-friendly platform empowers you to design, share, and analyze quizzes seamlessly."
               ghLink="https://github.com/waleedshaikh-code/quiz-app"
               demoLink="https://quiz-app-7eac9.web.app/" 
             />
@@ -81,8 +81,7 @@ function Projects() {
               imgPath={emotion}
               isBlog={false}
               title="Van Tracking System"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
+              description="Introducing VAN-ON: Your Gateway to Effortless Fleet Management. Experience the future of vehicle tracking with our cutting-edge Van Tracking System. From real-time location monitoring to route optimization and comprehensive vehicle analytics, VAN-ON empowers businesses to streamline operations, increase efficiency, and enhance security."
               ghLink="https://github.com/waleedshaikh-code/fyp-project"
               demoLink="#" 
             />
